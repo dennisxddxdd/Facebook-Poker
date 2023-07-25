@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         FacebookAutoPoker
-// @namespace    https://www.facebook.com/
+// @namespace    https://denniscsl.com/
 // @version      0.1
-// @description  Poke your friends automatically.
+// @description  Poke back your friends automatically.
 // @author       Dennis
 // @match        https://www.facebook.com/pokes/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=facebook.com
